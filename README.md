@@ -1,18 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=29&duration=5555&color=F7A76C&center=true&vCenter=true&width=700&height=70&lines=%E8%BF%98%E8%AE%B0%E5%BE%97%E4%BD%A0%E8%AF%B4%E5%AE%B6%E6%98%AF%E5%94%AF%E4%B8%80%E7%9A%84%E5%9F%8E%E5%A0%A1%EF%BC%8C%E9%9A%8F%E7%9D%80%E7%A8%BB%E9%A6%99%E6%B2%B3%E6%B5%81%E7%BB%A7%E7%BB%AD%E5%A5%94%E8%B7%91%E3%80%82;%E5%BE%AE%E5%BE%AE%E7%AC%91%EF%BC%8C%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E6%A2%A6%E6%88%91%E7%9F%A5%E9%81%93%E3%80%82)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=29&duration=5555&color=F7A76C&center=true&vCenter=true&width=700&height=70&lines=%E8%BF%98%E8%AE%B0%E5%BE%97%E4%BD%A0%E8%AF%B4%E5%AE%B6%E6%98%AF%E5%94%AF%E4%B8%80%E7%9A%84%E5%9F%8E%E5%A0%A1%EF%BC%8C%E9%9A%8F%E7%9D%80%E7%A8%BB%E9%A6%99%E6%B2%B3%E6%B5%81%E7%BB%A7%E7%BB%AD%E5%A5%94%E8%B7%91%E3%80%82;%E5%BE%AE%E5%BE%AE%E7%AC%91%EF%BC%8C%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E6%A2%A6%E6%88%91%E7%9F%A5%E9%81%93%E3%80%82)](https://git.io/typing-svg)  
 ![访问次数](https://visitor-badge.glitch.me/badge?page_id=Geek-monk) ![GitHub User's stars](https://img.shields.io/github/stars/Geek-monk?style=social) ![wakatime](https://wakatime.com/badge/user/c71469ab-ac59-4269-bfe4-f9200c6b151d.svg) [![Mail Badge](https://img.shields.io/badge/-boqi.zhang@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=boqi.zhang@outlook.com)](boqi.zhang@outlook.com)
-
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
-### ⚡ Something | to me
-  
-  
+### ⚡ Something to me
 
-最长的莫过于时间，    
+>最长的莫过于时间，    
 因为它永远无穷尽，  
 最短的也莫过于时间，  
-因为我们所有的计划都来不及完成。  
-  
+因为我们所有的计划都来不及完成.  
+ 
+![image](https://github.com/Geek-monk/Geek-monk/blob/main/icons/tiger_gif.gif?raw=true)
 
  
 ### 🌱 数据统计 | Statistics
