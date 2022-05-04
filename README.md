@@ -1,5 +1,6 @@
 [![访客欢迎语](https://readme-typing-svg.herokuapp.com?size=24&duration=5500&color=12E61690&center=%E7%9C%9F&vCenter=%E7%9C%9F&width=500&lines=%E7%8E%AB%E7%91%B0%E6%9C%89%E7%8E%AB%E7%91%B0%E7%9A%84%E8%8A%B1%E6%B5%B7%EF%BC%8C%E8%94%B7%E8%96%87%E6%9C%89%E8%94%B7%E8%96%87%E7%9A%84%E7%AA%97%E5%8F%B0%E3%80%82)](https://git.io/typing-svg)
-[![访问次数] ](https://visitor-badge.glitch.me/badge?page_id=Geek-monk)
+![访问次数](https://visitor-badge.glitch.me/badge?page_id=Geek-monk)
+[![wakatime](https://wakatime.com/badge/user/c71469ab-ac59-4269-bfe4-f9200c6b151d.svg)](https://wakatime.com/@c71469ab-ac59-4269-bfe4-f9200c6b151d)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 ![数据统计](https://metrics.lecoq.io/Geek-monk?template=classic&config.timezone=Asia%2FShanghai)
 ![奇哥的常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Geek-monk&layout=compact&hide_border=true&langs_count=10)
