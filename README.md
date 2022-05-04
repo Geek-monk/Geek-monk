@@ -5,7 +5,7 @@ Be calm-love me-today-yesterday-what tearful longings for you-you-you-my life-my
 Oh continue to love me-never misjudge the most faithful heart of your beloved. Ever thine. Ever mine. Ever ours.'
                                                                  ---- Beethoven (1812)
 
-![访问次数](https://visitor-badge.glitch.me/badge?page_id=Geek-monk) ![GitHub followers](https://img.shields.io/github/followers/Geek-monk?style=social) [![wakatime](https://wakatime.com/badge/user/c71469ab-ac59-4269-bfe4-f9200c6b151d.svg)](https://wakatime.com/@c71469ab-ac59-4269-bfe4-f9200c6b151d)
+![访问次数](https://visitor-badge.glitch.me/badge?page_id=Geek-monk) ![GitHub User's stars](https://img.shields.io/github/stars/Geek-monk?style=social) [![wakatime](https://wakatime.com/badge/user/c71469ab-ac59-4269-bfe4-f9200c6b151d.svg)](https://wakatime.com/@c71469ab-ac59-4269-bfe4-f9200c6b151d)
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
