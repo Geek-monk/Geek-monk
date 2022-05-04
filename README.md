@@ -5,13 +5,15 @@
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 ### ⚡ Something | to me
+  
+  
 
-==============================  
-最长的莫过于时间，    
-因为它永远无穷尽，  
-最短的也不莫过于时间，  
-因为我们所有的计划都来不及完成。  
-===============================
+#####最长的莫过于时间，    
+#####因为它永远无穷尽，  
+#####最短的也不莫过于时间，  
+#####因为我们所有的计划都来不及完成。  
+  
+
  
 ### 🌱 数据统计 | Statistics
 
@@ -19,29 +21,7 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=9d2b22)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
-![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=Shell&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=007396)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu&logoColor=ff9422)
-![ios](https://img.shields.io/badge/-IOS-333333?style=flat&logo=IOS&logoColor=007396)
-![android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android&logoColor=36eb69)
-- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
-![microsoftedge](https://img.shields.io/badge/-microsoftedge-333333?style=flat&logo=microsoftedge)
-- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![jenkins](https://img.shields.io/badge/-jenkins-333333?style=flat&logo=jenkins)
-![Bitcoin](https://img.shields.io/badge/-Bitcoin-333333?style=flat&logo=Bitcoin)
-![anaconda](https://img.shields.io/badge/-anaconda-333333?style=flat&logo=anaconda&logoColor=6f9e00)
-- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Gitee](https://img.shields.io/badge/-Gitee-333333?style=flat&logo=gitee&logoColor=9d2b22)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm&logoColor=31f400)
-![IDEA](https://img.shields.io/badge/-IDEA-333333?style=flat&logo=intellijIDEA&logoColor=FCC624)
-![VIM](https://img.shields.io/badge/-Vim-333333?style=flat&logo=VIM&logoColor=6f9e00)
-![VSCODE](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visualstudiocode&logoColor=0036dd)
-![Jetbrains](https://img.shields.io/badge/-jetbrains-333333?style=flat&logo=jetbrains&logoColor=ff22ff)
-![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-333333?style=flat&logo=Jupyter&logoColor=ff9422)
+- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=9d2b22) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396) ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=Shell&logoColor=007396) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript&logoColor=007396) ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu&logoColor=ff9422) ![ios](https://img.shields.io/badge/-IOS-333333?style=flat&logo=IOS&logoColor=007396) ![android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android&logoColor=36eb69)
+- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium) ![microsoftedge](https://img.shields.io/badge/-microsoftedge-333333?style=flat&logo=microsoftedge)
+- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![jenkins](https://img.shields.io/badge/-jenkins-333333?style=flat&logo=jenkins) ![Bitcoin](https://img.shields.io/badge/-Bitcoin-333333?style=flat&logo=Bitcoin) ![anaconda](https://img.shields.io/badge/-anaconda-333333?style=flat&logo=anaconda&logoColor=6f9e00)
+- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Gitee](https://img.shields.io/badge/-Gitee-333333?style=flat&logo=gitee&logoColor=9d2b22) ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) ![pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm&logoColor=31f400) ![IDEA](https://img.shields.io/badge/-IDEA-333333?style=flat&logo=intellijIDEA&logoColor=FCC624) ![VIM](https://img.shields.io/badge/-Vim-333333?style=flat&logo=VIM&logoColor=6f9e00) ![VSCODE](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visualstudiocode&logoColor=0036dd) ![Jetbrains](https://img.shields.io/badge/-jetbrains-333333?style=flat&logo=jetbrains&logoColor=ff22ff) ![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-333333?style=flat&logo=Jupyter&logoColor=ff9422)
